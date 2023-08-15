@@ -1,5 +1,5 @@
 # Python-Scripts
-Just some random python scripts. Some are useful and some are just for fun
+Just some random python scripts. Some are useful and some are just for fun.
 These are my attempts at learning python and trying to make a good use of it to automate my computer experiences. If you find some of these scripts useful, feel free to download them.
 
 ### Download Packer
@@ -15,7 +15,7 @@ Implementation of war cards, where the values of cards are compared and the winn
 In my script the computer plays against itself.
 
 ### BlackJack
-A simple implementation of blackjack, with only 2 actions - Hit and Stay
+A simple implementation of blackjack, with only 2 actions - Hit and Stay.
 The dealer is a computer that makes decisions based on a random generator.
 
 ### Tic Tac - X's and O's
